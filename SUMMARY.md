@@ -2,7 +2,7 @@
 
 * [中文跨性别文化作品](README.md)
 * [书籍](shu-ji.md)
-* [电影](dian-ying.md)
+* [电影/纪录片](dian-ying.md)
 * [电视剧](dian-shi-ju.md)
 * [动画](dong-hua.md)
 * [漫画](man-hua.md)
