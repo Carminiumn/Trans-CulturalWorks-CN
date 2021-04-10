@@ -4,8 +4,11 @@
 | :--- | :--- | :--- | :--- |
 | [**one night, hot springs**](https://npckc.itch.io/one-night-hot-springs#cwseen)\*\*\*\* | Windows, macOS, Linux, Android | 主题 | 免费游戏 |
 | \*\*\*\*[**last day of spring**](https://npckc.itch.io/last-day-of-spring#cwseen)\*\*\*\* | Windows, macOS, Linux, Android | 主题 | 上面的续作 |
+| \*\*\*\*[**The MISSING: J.J. Macfield and the Island of Memories**](https://store.steampowered.com/app/842910/The_MISSING_JJ_Macfield_and_the_Island_of_Memories/)\*\*\*\* | Windows, PS4, Xbox One, Switch | 主题 |  |
 
-因为跨性别题材的游戏本身就十分稀少，因此在这里列出非中文的作品
+
+
+### 非中文的作品
 
 | 游戏名 | 平台 | 跨性别内容占比 | 备注 |
 | :--- | :--- | :--- | :--- |
