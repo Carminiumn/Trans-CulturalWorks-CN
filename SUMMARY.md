@@ -7,8 +7,8 @@
 * [动画](anime.md)
 * [漫画](manga.md)
 * [游戏](game.md)
+* [播客](podcasts.md)
 * [短片](short-video.md)
 * [演讲](talks.md)
-* [播客](podcasts.md)
 * [网络文学](internet-literature.md)
 
