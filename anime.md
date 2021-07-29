@@ -9,8 +9,8 @@ description: >-
 
 | 动画名 | 跨性别内容占比 | 备注 |
 | :--- | :--- | :--- |
-| \*\*\*\*[**放浪男孩**](https://movie.douban.com/subject/5273301/) | 主题 |  |
-| \*\*\*\*[**佐贺偶像是传奇**](https://movie.douban.com/subject/30267274/) | 涉及 | 关于本剧的[跨性别角色](https://zh.moegirl.org.cn/zh-tw/%E6%98%9F%E5%B7%9D%E8%8E%89%E8%8E%89) |
+| [**放浪男孩**](https://movie.douban.com/subject/5273301/) | 主题 |  |
+| [**佐贺偶像是传奇**](https://movie.douban.com/subject/30267274/) | 涉及 | 关于本剧的[跨性别角色](https://zh.moegirl.org.cn/zh-tw/%E6%98%9F%E5%B7%9D%E8%8E%89%E8%8E%89) |
 
 
 
